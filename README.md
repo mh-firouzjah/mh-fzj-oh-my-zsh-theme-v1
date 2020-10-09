@@ -6,4 +6,4 @@ add the zshrc to the home directory, and rename it with a dot infront of the cur
 add the mh-fzj-v1.zsh-theme to oh-my-zsh themes directory. 
 have fun
 
-![Alt text](Screenshot.jpg?raw=true "Optional Title")
+![Alt text](Screenshot.png?raw=true "Optional Title")
